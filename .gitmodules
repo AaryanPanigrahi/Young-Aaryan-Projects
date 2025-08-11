@@ -1,3 +1,6 @@
 [submodule "submodules/LED-lamp"]
 	path = submodules/LED-lamp
 	url = https://github.com/AaryanPanigrahi/3-Stage-LED-Lamp
+[submodule "submodules/Liquid-Dispenser"]
+	path = submodules/Liquid-Dispenser
+	url = https://github.com/AaryanPanigrahi/Liquid-Dispenser
