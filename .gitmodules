@@ -1,0 +1,3 @@
+[submodule "submodules/LED-lamp"]
+	path = submodules/LED-lamp
+	url = https://github.com/AaryanPanigrahi/3-Stage-LED-Lamp
