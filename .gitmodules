@@ -7,3 +7,6 @@
 [submodule "submodules/Air-Gun"]
 	path = submodules/Air-Gun
 	url = https://github.com/AaryanPanigrahi/Air-Gun
+[submodule "submodules/BLDC-Quadcopter"]
+	path = submodules/BLDC-Quadcopter
+	url = https://github.com/AaryanPanigrahi/Arduino-Based-BLDC-Quadcopter
