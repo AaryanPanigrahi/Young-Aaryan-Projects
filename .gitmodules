@@ -4,3 +4,6 @@
 [submodule "submodules/Liquid-Dispenser"]
 	path = submodules/Liquid-Dispenser
 	url = https://github.com/AaryanPanigrahi/Liquid-Dispenser
+[submodule "submodules/Air-Gun"]
+	path = submodules/Air-Gun
+	url = https://github.com/AaryanPanigrahi/Air-Gun
