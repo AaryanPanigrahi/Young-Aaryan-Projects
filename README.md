@@ -2,7 +2,7 @@
 Projects I did when I younger. 
 
 **Arduino-Based BLDC Quadcopter:**
-[https://github.com/AaryanPanigrahi/Arduino-Based-BLDC-Quadcopter/wiki/Arduino-Based-BLDC-Quadcopter] (https://github.com/AaryanPanigrahi/Arduino-Based-BLDC-Quadcopter/wiki/Arduino%E2%80%90Based%E2%80%90BLDC%E2%80%90Quadcopter)
+[https://github.com/AaryanPanigrahi/Arduino-Based-BLDC-Quadcopter/wiki/Arduino-Based-BLDC-Quadcopter](https://github.com/AaryanPanigrahi/Arduino-Based-BLDC-Quadcopter/wiki/Arduino%E2%80%90Based%E2%80%90BLDC%E2%80%90Quadcopter)
 
 **3-Stage LED Lamp:**
 https://github.com/AaryanPanigrahi/3-Stage-LED-Lamp/wiki/3-Stage-LED-Lamp
